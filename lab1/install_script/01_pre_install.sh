@@ -6,7 +6,7 @@ echo "++++++++++++++++++++++++++++++++++++++++++++"
 echo "         statrt "
 echo "++++++++++++++++++++++++++++++++++++++++++++"
 
-ehco "please self check selhostname, Mac addr and product_uuid"
+eo "please self check selhostname, Mac addr and product_uuid"
 
 
 echo "++++++++++++++++stop firewall+++++++++++++++"
